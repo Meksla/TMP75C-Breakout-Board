@@ -1,0 +1,4 @@
+(gerbv-file-version! "2.0A")
+(define-layer! 0 (cons 'filename "E:/Dropbox/EE364D/TMP75C Breakout Board/Gerber Files/TMP75C-Breakout-Board-PCB - Board Outline.gbr")(cons 'visible #t)(cons 'color #(29555 29555 57054)))
+(define-layer! -1 (cons 'filename "E:/Dropbox/EE364D/TMP75C Breakout Board/Gerber Files")(cons 'visible #f)(cons 'color #(0 0 0)))
+(set-render-type! 2)
